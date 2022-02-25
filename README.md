@@ -7,3 +7,4 @@ Repositorio prueba
 Ejercicios de git 
 
 ![](/home/nayeli/Imágenes/exgit.png)
+![](/home/nayeli/Imágenes/network.png)
